@@ -1,0 +1,13 @@
+
+## How to Run
+1. Open `retail_sales_etl.ipynb` in **Google Colab**  
+2. Run all cells step by step  
+3. Outputs will be generated automatically in `/outputs` and in `sales_dw.db`
+
+## Results
+- Daily sales summary
+- Product performance summary
+- Revenue by category (via SQL queries)
+
+## Contact
+This project can be used as a **Data Engineering portfolio piece** or resume project.
